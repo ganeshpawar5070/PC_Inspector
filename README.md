@@ -91,7 +91,7 @@ The report is automatically named using the computer name.
 Example:
 
 ```
-GANESH.txt
+Device_Name.txt
 ```
 
 ---
